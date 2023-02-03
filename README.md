@@ -1,4 +1,4 @@
-# Using [Cypress](https://www.cypress.io/) for QA [End-to-End Testing](https://circleci.com/blog/what-is-end-to-end-testing/)
+# Using [Cypress](https://www.cypress.io/) for QA [End-to-End Testing](https://www.perfecto.io/blog/comprehensive-guide-end-end-e2e-testing)
 
 See **[13.5 minute YouTube video](https://www.youtube.com/watch?v=KhAJLar-KIY)** explaining how to set up Cypress and how I wrote my code.
 
