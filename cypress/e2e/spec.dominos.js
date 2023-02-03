@@ -1,15 +1,13 @@
-// describe('template spec', () => {
-//   it('Visits the Kitchen Sink', () => {
-//     cy.visit('https://example.cypress.io')
-//     cy.contains('type').click()
-//     cy.url().should('include', '/commands/actions')
-
-
-//     cy.get('#email1').type('raymond@email.com')
-
-//     cy.get('#email1').should('have.value', 'raymond@email.com')
-//   })
-// })
+/*
+1. Order pizza for carryout
+2. Find pizza store in New York City (2nd address)
+3. Build your own pizza
+4. With light cheese
+5. With extra Robust Inspired Tomato Sauce
+6. With pepperoni
+7. Add to order (put in shopping cart)
+8. Finally, it checks if shopping cart has text "Large (14") Hand Tossed Pizza"
+*/
 
 describe("Domino's", () => {
   it('Build pizza and put in shopping cart', () => {
