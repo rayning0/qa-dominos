@@ -1,6 +1,8 @@
 # Using [Cypress](https://www.cypress.io/) for QA [End-to-End Testing](https://circleci.com/blog/what-is-end-to-end-testing/)
 
-See **[13.5 minute YouTube video](https://www.youtube.com/watch?v=KhAJLar-KIY)** explaining how to set up Cypress and how I wrote my code. See my **[LinkedIn post](https://bit.ly/3x0bYPX)** on this.
+See **[13.5 minute YouTube video](https://www.youtube.com/watch?v=KhAJLar-KIY)** explaining how to set up Cypress and how I wrote my code.
+
+See my **[LinkedIn post](https://bit.ly/3x0bYPX)** on this.
 
 To teach junior engineers to use Cypress to automatically click through a browser, I wrote this JavaScript test code to order a pizza on Domino's website in New York City and put it in the shopping cart.
 
