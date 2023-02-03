@@ -15,4 +15,9 @@ Usually QA engineers do **manual testing**, where they click through a browser b
 
 Software like [Cypress](https://www.cypress.io/) and [Selenium](https://www.selenium.dev/) automates the manual software testing process.
 
-If you apply for a QA engineering job and show Cypress code like this to test part of your target company's website, it will impress them and instantly make you stand out from hundreds of other job applicants.
+If you apply for a QA engineering job and show Cypress code to test part of your target company's website, it will impress them and instantly make you stand out from hundreds of job applicants.
+
+Video of my code in action:
+
+https://user-images.githubusercontent.com/1870151/216524062-f9cba37b-7711-44a4-9e18-ebda9eada598.mp4
+
